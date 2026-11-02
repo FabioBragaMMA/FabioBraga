@@ -15,6 +15,10 @@ Estudante de Engenharia Informática e Desenvolvedor focado em soluções mobile
 
 ### 🚀 Projetos em Destaque
 
+* **Bunny Brawl Forest** 🐰🌲
+  * Jogo desenvolvido no repositório de projeto, com mecânicas e dinâmicas interativas.
+  * Focado na lógica de programação, controlo de estados e experiência de jogo.
+
 * **TuGoal** *(Projeto em Grupo)* ⚽
   * Aplicação mobile para acompanhamento e estatísticas de futebol.
   * Construída em **Flutter & Dart**, com foco em UI intuitiva e gestão de dados em tempo real.
@@ -31,5 +35,5 @@ Estudante de Engenharia Informática e Desenvolvedor focado em soluções mobile
 
 ### 📫 Contacto
 
-* **LinkedIn:** [Teu Link Aqui]
+* **LinkedIn:** www.linkedin.com/in/fabiobraga26
 * **Email:** fabioeagle26braga@gmail.com
